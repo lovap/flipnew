@@ -1,5 +1,5 @@
 /*modified second */
-node()
+node {'slave-server1')
 {
    stage('Cont.Download') 
      {
